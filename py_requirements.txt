@@ -1,0 +1,13 @@
+numpy==1.22.1
+wikiextractor==3.0.6
+blingfire==0.1.8
+pandas==1.4.2
+tqdm==4.64.0
+opencv-contrib-python==4.5.5.64
+nbconvert==6.5.0
+ipykernel==6.13.0
+matplotlib==3.5.1
+statsmodels==0.13.2
+subs2vec==0.9.6
+scipy==1.8.0
+gensim==4.1.2
