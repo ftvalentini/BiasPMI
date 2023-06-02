@@ -1,4 +1,6 @@
 
+# A PMI-based approach to measure biases in texts
+
 Code to replicate _On the Interpretability and Significance of Bias Metrics in Texts: a PMI-based Approach_ (Valentini et al., ACL 2023).
 
 Cite as:
